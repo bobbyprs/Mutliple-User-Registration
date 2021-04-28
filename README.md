@@ -31,13 +31,7 @@ then user should get an error message stating that the user already registered w
 
 ****************************************************
 # For Seller user Registration
-As a super admin user I want to add a new tenant so that the new tenant can access and manage their portal. 
 
- 
-
-Given I am logged in as super user
-
-When I click on add tenant button 
 
 Then the screen with following input should be presented
 
