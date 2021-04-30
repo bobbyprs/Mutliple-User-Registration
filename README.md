@@ -1,4 +1,4 @@
-# Mutliple-User-Registration
+# Mutliple-User-Registration(Django)
 The is the just like flipkart registration form where Customer form is different from Seller form so normally in amazon both customer and seller have same registration 
 form in the outher words it uses only one user models but in our case it not possible so i have  used only one custom user model with two proxy user models
 
